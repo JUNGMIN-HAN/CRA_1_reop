@@ -3,6 +3,9 @@ public class Main {
         System.out.println("HI");
     }
 
+    public int getGop(int a, int b) {
+        return a * b;
+
     public static int getZegop(int a) {
         return a * a;
     }
